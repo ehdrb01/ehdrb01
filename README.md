@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=welcome&fontSize=90)
+
+### Work
+2023.03~ 멋쟁이 사자처럼
 
 
 <a href="s">
