@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=welcome&fontSize=90)
 
 ### 📕Team📕
-- 2023.03~ 멋쟁이 사자처럼  
+- 2023.03~ 멋쟁이 사자처럼
+- 2023.06~ ISEL  
 
 ### 🕐TimeLine🕐
 - 2001.05 출생  
