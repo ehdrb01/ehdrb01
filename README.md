@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=welcome&fontSize=90)
 
 ### 📕Team📕
-- 2023.03~ 멋쟁이 사자처럼
+- 2023.03~ 멋쟁이사자처럼
 - 2023.06~ ISEL(Intelligent Software Engineering Lab)
 
 ### 🕐TimeLine🕐
 - 2017.03 학성고등학교 입학  
 - 2020.03 한동대학교 입학
-
+- 2023.09 SW교육원 아이디어 해커톤 경진대회(멋쟁이사자처럼) 최우수상 수상
+- 2023.11 소프트웨어를 활용한 문제해결 아이디어 공모전 장려상 수상
+- 2023.11 스마트 어플리케이션 공모전 장려상 수상
 
 
 
